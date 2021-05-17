@@ -116,6 +116,17 @@ body{
   background-color: #fff
 }
 
+.claime{
+  background-color:#38CC8B;
+  color: #fff;
+  transition:background-color 1s ease,
+  color 0.9s ease;
+}
+.claime:hover{
+  background-color: #65efb3;
+  color:#fff;
+}
+
 
 .name {
   width: 460px;
@@ -124,6 +135,10 @@ body{
   border-radius:14px;
 
 }
+
+
+
+
 
 .p {
   font-family: "Poppins";
@@ -139,3 +154,6 @@ body{
   text-align: center;
   color: red;
 }
+
+
+
